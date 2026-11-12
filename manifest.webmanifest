@@ -1,0 +1,16 @@
+{
+  "name": "Fondali Costanza",
+  "short_name": "Fondali",
+  "description": "Carta dei fondali, GPS e calata con corrente per la Costanza",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08151d",
+  "theme_color": "#0b1a4a",
+  "lang": "it",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
